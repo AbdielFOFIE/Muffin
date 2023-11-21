@@ -1,0 +1,25 @@
+h1{
+	color:red;
+	font-family:arial;
+	font-size:50px;
+	background-color: grey ;
+}
+h2, h3, h4 {
+	color: grey;
+	font-size: 30px;
+}
+p, ul, ol {
+	font-size: 20px;
+}
+body{
+	text-align : center;
+	background: lightgrey ;
+}
+h3, ul, ol {
+	text-align: left;
+}
+img{
+	width: 600px;
+	height: 600px;
+	object-fit: cover;
+}
